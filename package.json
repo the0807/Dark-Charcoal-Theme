@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.70.0"
   },
-  "icon": "image/logo.png",
+  "icon": "logo.png",
   "author": {
     "name": "Eom, TaeHyun",
     "email": "the0807.eom@gmail.com",
@@ -16,6 +16,7 @@
     "url": "https://github.com/the0807/Dark-Charcoal-Theme",
     "type": "github"
   },
+  "publisher": "the0807",
   "categories": [
     "Themes"
   ],

@@ -1,5 +1,7 @@
 ## 🪨 Dark Charcoal Theme  
 
+![Dark Charcoal Theme](https://github.com/user-attachments/assets/918a8ec6-ba4d-4439-b81f-674146102b5d)
+
 **Dark Charcoal Theme** is a sleek and modern dark theme designed to enhance readability and improve the overall development experience. This theme also includes recommended extensions and a terminal font setup for an optimized coding environment.
 
 ---

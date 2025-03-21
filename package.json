@@ -1,0 +1,41 @@
+{
+  "name": "dark-charcoal-theme",
+  "displayName": "Dark Charcoal Theme",
+  "description": "Dark Charcoal Theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "icon": "image/logo.png",
+  "author": {
+    "name": "Eom, TaeHyun",
+    "email": "the0807.eom@gmail.com",
+    "url": "https://github.com/the0807"
+  },
+  "repository": {
+    "url": "https://github.com/the0807/Dark-Charcoal-Theme",
+    "type": "github"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Charcoal Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Charcoal Theme-color-theme.json"
+      }
+    ],
+    "configurationDefaults": {
+      "terminal.integrated.fontFamily": "D2Coding",
+      "workbench.iconTheme": "material-icon-theme"
+    }
+  },
+  "extensionDependencies": [
+    "PKief.material-icon-theme",
+    "oderwat.indent-rainbow",
+    "aaron-bond.better-comments",
+    "xshrim.txt-syntax"
+  ]
+}

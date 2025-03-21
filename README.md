@@ -13,15 +13,24 @@
 
 ---
 
+### 🚀 **How to Use**  
+1. Install **[Dark Charcoal Theme](https://marketplace.visualstudio.com/items?itemName=the0807.dark-charcoal-theme)**
+2. Open the command palette (`Ctrl or cmd + Shift + P`) → Select `Preferences: Color Theme` → Choose **"Dark Charcoal Theme"**  
+3. *(Optional)* If the **D2Coding font** does not apply correctly:  
+   - Open settings (`Ctrl + ,`) → Search for `terminal.integrated.fontFamily` and ensure it is set to `"D2Coding"`  
+   - If the font is not installed, follow the installation steps above and restart VSCode  
+
+---
+
 ### 🔌 **Recommended Extensions (Automatically Installed)**  
 This theme is best experienced with the following extensions. They will be automatically installed upon installation of this theme but can be individually enabled/disabled as needed.  
 
-| Extension | Description |
-|-----------|------------|
-| [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | A modern and clean icon theme |
-| [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | Highlights indentation levels with different colors for better readability |
-| [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | Enhances code comments with visual cues |
-| [TXT Syntax](https://marketplace.visualstudio.com/items?itemName=xshrim.txt-syntax) | Adds syntax highlighting for plain text (.txt) files |
+| Extension                                                                                            | Description                                                                |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | A modern and clean icon theme                                              |
+| [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)         | Highlights indentation levels with different colors for better readability |
+| [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)    | Enhances code comments with visual cues                                    |
+| [TXT Syntax](https://marketplace.visualstudio.com/items?itemName=xshrim.txt-syntax)                  | Adds syntax highlighting for plain text (.txt) files                       |
 
 ---
 
@@ -35,15 +44,6 @@ Dark Charcoal Theme sets **D2Coding** as the default terminal font. **You must i
    - **Mac**: Open the `.ttf` file and click "Install"  
    - **Linux**: Move the `.ttf` file to `~/.fonts/` or `/usr/share/fonts/` and run `fc-cache -f -v`  
 3. Restart VSCode to apply the font to the terminal.  
-
----
-
-### 🚀 **How to Use**  
-1. Install **Dark Charcoal Theme**  
-2. Open the command palette (`Ctrl + Shift + P`) → Select `Preferences: Color Theme` → Choose **"Dark Charcoal Theme"**  
-3. *(Optional)* If the **D2Coding font** does not apply correctly:  
-   - Open settings (`Ctrl + ,`) → Search for `terminal.integrated.fontFamily` and ensure it is set to `"D2Coding"`  
-   - If the font is not installed, follow the installation steps above and restart VSCode  
 
 ---
 

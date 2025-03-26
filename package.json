@@ -2,7 +2,7 @@
   "name": "dark-charcoal-theme",
   "displayName": "Dark Charcoal Theme",
   "description": "Dark Charcoal Theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.70.0"
   },

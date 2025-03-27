@@ -2,7 +2,7 @@
   "name": "dark-charcoal-theme",
   "displayName": "Dark Charcoal Theme",
   "description": "Dark Charcoal Theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -37,6 +37,7 @@
     "PKief.material-icon-theme",
     "oderwat.indent-rainbow",
     "aaron-bond.better-comments",
-    "xshrim.txt-syntax"
+    "xshrim.txt-syntax",
+    "yzhang.markdown-all-in-one"
   ]
 }

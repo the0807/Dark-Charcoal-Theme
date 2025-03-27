@@ -25,12 +25,13 @@
 ### 🔌 **Recommended Extensions (Automatically Installed)**  
 This theme is best experienced with the following extensions. They will be automatically installed upon installation of this theme but can be individually enabled/disabled as needed.  
 
-| Extension                                                                                            | Description                                                                |
-| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | A modern and clean icon theme                                              |
-| [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)         | Highlights indentation levels with different colors for better readability |
-| [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)    | Enhances code comments with visual cues                                    |
-| [TXT Syntax](https://marketplace.visualstudio.com/items?itemName=xshrim.txt-syntax)                  | Adds syntax highlighting for plain text (.txt) files                       |
+| **Extension** | **Description** |  
+|--------------|---------------|  
+| [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | A modern and clean icon theme for better file and folder visualization. |  
+| [**Indent Rainbow**](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | Highlights indentation levels with different colors for improved readability. |  
+| [**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | Enhances code comments with color-coded visual cues for better organization. |  
+| [**TXT Syntax**](https://marketplace.visualstudio.com/items?itemName=xshrim.txt-syntax) | Adds syntax highlighting support for plain text (`.txt`) files. |  
+| [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | A comprehensive Markdown toolkit with shortcuts, live preview, table of contents, and more. |  
 
 ---
 

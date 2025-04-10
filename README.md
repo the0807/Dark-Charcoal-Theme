@@ -1,5 +1,7 @@
 ## 🪨 Dark Charcoal Theme  
 
+[![Install from VS Code Marketplace](https://img.shields.io/badge/Install-VS%20Code%20Marketplace-blue.svg)](https://marketplace.visualstudio.com/items?itemName=the0807.dark-charcoal-theme)
+
 ![Dark Charcoal Theme](theme_img.png)
 
 **Dark Charcoal Theme** is a sleek and modern dark theme designed to enhance readability and improve the overall development experience. This theme also includes recommended extensions and a terminal font setup for an optimized coding environment.

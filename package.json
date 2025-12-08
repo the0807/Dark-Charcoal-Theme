@@ -2,7 +2,7 @@
   "name": "dark-charcoal-theme",
   "displayName": "Dark Charcoal Theme",
   "description": "Dark Charcoal Theme",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -29,15 +29,80 @@
       }
     ],
     "configurationDefaults": {
-      "terminal.integrated.fontFamily": "D2Coding",
-      "workbench.iconTheme": "material-icon-theme"
+      "terminal.integrated.fontFamily": "D2CodingLigature Nerd Font",
+      "editor.fontFamily": "'D2CodingLigature Nerd Font', D2Coding, Consolas, 'Courier New', monospace",
+      "markdown.preview.fontFamily": "'D2CodingLigature Nerd Font', D2Coding, -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
+      "workbench.iconTheme": "material-icon-theme",
+      "git.autofetch": "all",
+      "todo-tree.highlights.customHighlight": {
+        "TODO": {
+          "foreground": "#FF8C00",
+          "gutterIcon": true,
+          "icon": "star-fill",
+          "iconColour": "#FFCB6B",
+          "type": "line"
+        },
+        "NOTE": {
+          "foreground": "#3498DB",
+          "gutterIcon": true,
+          "icon": "pencil",
+          "iconColour": "#3498DB",
+          "type": "line"
+        },
+        "BUG": {
+          "foreground": "#C792EA",
+          "gutterIcon": true,
+          "icon": "bug",
+          "iconColour": "#C792EA",
+          "type": "line"
+        },
+        "WARNING": {
+          "foreground": "#FFCB6B",
+          "gutterIcon": true,
+          "icon": "alert",
+          "iconColour": "#FFCB6B",
+          "type": "line"
+        },
+        "FIXME": {
+          "foreground": "#FF5555",
+          "gutterIcon": true,
+          "icon": "flame",
+          "iconColour": "#FF5555",
+          "type": "line"
+        },
+        "CHECKLIST": {
+          "foreground": "#3498DB",
+          "gutterIcon": true,
+          "icon": "check-circle-fill",
+          "iconColour": "#3498DB",
+          "type": "line"
+        },
+        "[ ]": {
+          "foreground": "#FF5555",
+          "gutterIcon": true,
+          "icon": "x",
+          "iconColour": "#FF5555",
+          "type": "line"
+        },
+        "[x]": {
+          "foreground": "#50FA7B",
+          "gutterIcon": true,
+          "icon": "check",
+          "iconColour": "#50FA7B",
+          "type": "line"
+        }
+      },
+      "todo-tree.regex.regex": "(($TAGS).*(?:\\r?\\n[ \\t]*\\-(?!\\s*($TAGS)).*)*)",
+      "todo-tree.ripgrep.ripgrepArgs": "--multiline --pcre2"
     }
   },
   "extensionDependencies": [
     "PKief.material-icon-theme",
     "oderwat.indent-rainbow",
-    "aaron-bond.better-comments",
     "xshrim.txt-syntax",
-    "yzhang.markdown-all-in-one"
+    "christian-kohler.path-intellisense",
+    "yzhang.markdown-all-in-one",
+    "mhutchie.git-graph",
+    "gruntfuggly.todo-tree"
   ]
 }

@@ -2,7 +2,7 @@
   "name": "dark-charcoal-theme",
   "displayName": "Dark Charcoal Theme",
   "description": "Dark Charcoal Theme",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -34,6 +34,16 @@
       "markdown.preview.fontFamily": "'D2CodingLigature Nerd Font', D2Coding, -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
       "workbench.iconTheme": "material-icon-theme",
       "git.autofetch": "all",
+      "todo-tree.general.tags": [
+          "TODO",
+          "NOTE",
+          "BUG",
+          "WARNING",
+          "FIXME",
+          "CHECKLIST",
+          "[ ]",
+          "[x]"
+      ],
       "todo-tree.highlights.customHighlight": {
         "TODO": {
           "foreground": "#FF8C00",

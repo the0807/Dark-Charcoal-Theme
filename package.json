@@ -2,7 +2,7 @@
   "name": "dark-charcoal-theme",
   "displayName": "Dark Charcoal Theme",
   "description": "Dark Charcoal Theme",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -35,52 +35,52 @@
       "workbench.iconTheme": "material-icon-theme",
       "git.autofetch": "all",
       "todo-tree.general.tags": [
-          "TODO",
-          "NOTE",
-          "BUG",
-          "WARNING",
-          "FIXME",
-          "CHECKLIST",
+          "TODO:",
+          "NOTE:",
+          "BUG:",
+          "WARNING:",
+          "FIXME:",
+          "CHECKLIST:",
           "[ ]",
           "[x]"
       ],
       "todo-tree.highlights.customHighlight": {
-        "TODO": {
+        "TODO:": {
           "foreground": "#FF8C00",
           "gutterIcon": true,
           "icon": "star-fill",
           "iconColour": "#FFCB6B",
           "type": "line"
         },
-        "NOTE": {
+        "NOTE:": {
           "foreground": "#3498DB",
           "gutterIcon": true,
           "icon": "pencil",
           "iconColour": "#3498DB",
           "type": "line"
         },
-        "BUG": {
+        "BUG:": {
           "foreground": "#C792EA",
           "gutterIcon": true,
           "icon": "bug",
           "iconColour": "#C792EA",
           "type": "line"
         },
-        "WARNING": {
+        "WARNING:": {
           "foreground": "#FFCB6B",
           "gutterIcon": true,
           "icon": "alert",
           "iconColour": "#FFCB6B",
           "type": "line"
         },
-        "FIXME": {
+        "FIXME:": {
           "foreground": "#FF5555",
           "gutterIcon": true,
           "icon": "flame",
           "iconColour": "#FF5555",
           "type": "line"
         },
-        "CHECKLIST": {
+        "CHECKLIST:": {
           "foreground": "#3498DB",
           "gutterIcon": true,
           "icon": "check-circle-fill",

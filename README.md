@@ -20,7 +20,7 @@
 2. Open the command palette (`Ctrl or cmd + Shift + P`) → Select `Preferences: Color Theme` → Choose **"Dark Charcoal Theme"**  
 3. *(Optional)* If the **D2Coding font** does not apply correctly:  
    - Open settings (`Ctrl + ,`) → Search for `terminal.integrated.fontFamily` and ensure it is set to `"D2Coding"`  
-   - If the font is not installed, follow the installation steps above and restart VSCode  
+   - If the font is not installed, follow the installation steps below and restart VS Code  
 
 ---
 
@@ -42,13 +42,13 @@ This theme is best experienced with the following extensions. They will be autom
 ### 🔤 **Terminal Font Setup (D2CodingLigature Nerd Font)**  
 Dark Charcoal Theme sets **D2CodingLigature Nerd Font** as the default terminal font. **You must install the font manually for it to work correctly.**  
 
-#### 📥 **How to Install D2CodingLigature Nerd Font Font**  
+#### 📥 **How to Install D2CodingLigature Nerd Font**  
 1. Download the latest version of D2Coding Nerd Font from the [official GitHub repository](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/D2Coding).  
 2. Install the font based on your operating system:  
    - **Windows**: Open the `.ttf` file and click "Install"  
    - **Mac**: Open the `.ttf` file and click "Install"  
    - **Linux**: Move the `.ttf` file to `~/.fonts/` or `/usr/share/fonts/` and run `fc-cache -f -v`  
-3. Restart VSCode to apply the font to the terminal.  
+3. Restart VS Code to apply the font to the terminal.  
 
 ---
 

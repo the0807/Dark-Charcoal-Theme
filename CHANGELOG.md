@@ -4,6 +4,12 @@ All notable changes to the "dark-charcoal-theme" extension will be documented in
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.11] - 2026-03-17
+
+### Changed
+
+- Update dependency from `mhutchie.git-graph` to `the0807.git-graph-plus`
+
 ## [1.0.10] - 2026-03-03
 
 ### Fixed

@@ -27,15 +27,14 @@
 ### 🔌 **Recommended Extensions (Automatically Installed)**  
 This theme is best experienced with the following extensions. They will be automatically installed upon installation of this theme but can be individually enabled/disabled as needed.  
 
-| **Extension** | **Description** |  
-|--------------|---------------|  
-| [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | A modern and clean icon theme for better file and folder visualization. |  
-| [**Indent Rainbow**](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | Highlights indentation levels with different colors for improved readability. |  
-| [**TXT Syntax**](https://marketplace.visualstudio.com/items?itemName=xshrim.txt-syntax) | Adds syntax highlighting support for plain text (`.txt`) files. |  
-| [**Path Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | Auto-completes filenames and paths in your code for faster development. |  
-| [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | A comprehensive Markdown toolkit with shortcuts, live preview, table of contents, and more. |  
-| [**Git Graph**](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) | View a Git Graph of your repository, and perform Git actions from the graph. |  
-| [**Todo Tree**](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) | Highlights TODOs, FIXMEs, and other comment tags in your code with customizable colors and icons. |  
+| **Extension**                                                                                                   | **Description**                                                                             |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)        | A modern and clean icon theme for better file and folder visualization.                     |
+| [**Indent Rainbow**](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)                | Highlights indentation levels with different colors for improved readability.               |
+| [**TXT Syntax**](https://marketplace.visualstudio.com/items?itemName=xshrim.txt-syntax)                         | Adds syntax highlighting support for plain text (`.txt`) files.                             |
+| [**Path Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | Auto-completes filenames and paths in your code for faster development.                     |
+| [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)       | A comprehensive Markdown toolkit with shortcuts, live preview, table of contents, and more. |
+| [**Git Graph**](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)                         | View a Git Graph of your repository, and perform Git actions from the graph.                |
 
 ---
 

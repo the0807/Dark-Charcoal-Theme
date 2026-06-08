@@ -2,7 +2,7 @@
   "name": "dark-charcoal-theme",
   "displayName": "Dark Charcoal Theme",
   "description": "Dark Charcoal Theme",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -112,7 +112,6 @@
     "xshrim.txt-syntax",
     "christian-kohler.path-intellisense",
     "yzhang.markdown-all-in-one",
-    "the0807.git-graph-plus",
-    "gruntfuggly.todo-tree"
+    "the0807.git-graph-plus"
   ]
 }

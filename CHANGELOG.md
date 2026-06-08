@@ -4,6 +4,12 @@ All notable changes to the "dark-charcoal-theme" extension will be documented in
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.12] - 2026-06-08
+
+### Changed
+
+- Remove dependency from `gruntfuggly.todo-tree`
+
 ## [1.0.11] - 2026-03-17
 
 ### Changed

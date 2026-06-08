@@ -4,6 +4,12 @@ All notable changes to the "dark-charcoal-theme" extension will be documented in
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.13] - 2026-06-08
+
+### Changed
+
+- Migrate TODO Tree configuration keys from `todo-tree.*` to `better-todo-tree.*`
+
 ## [1.0.12] - 2026-06-08
 
 ### Changed
